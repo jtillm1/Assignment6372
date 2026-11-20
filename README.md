@@ -2,7 +2,7 @@
 
 Express + Postgres (Neon) trivia API.
 
-**Live app:** https://assignment6372.onrender.com
+**Live app:** [https://assignment6372.onrender.com/triviabook/topics]
 
 ## Database schema
 
